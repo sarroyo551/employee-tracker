@@ -23,7 +23,7 @@
   ## Installation
 
   ```bash
-  npm i 
+  npm i inquirer@8.2.4
   ```
 
   ## Usage 
@@ -53,3 +53,5 @@
   You can email me at santi.arroyo551@gmail.com
 
   ## Video
+
+  https://www.youtube.com/watch?v=OKKWD2Ddzls
